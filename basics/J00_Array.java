@@ -17,6 +17,7 @@ class Array
 
 		int f[] = d.clone();	// deep copy
 		System.out.println(f == d);	// false
+		System.out.println(Arrays.equals(f, d));	// true		
 
 		int g[][] = e.clone();	// shallow copy
 		System.out.println(g == e);	// false
