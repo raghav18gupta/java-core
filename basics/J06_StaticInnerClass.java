@@ -21,7 +21,7 @@ class StaticOuter 	// StaticOuter.class
 }
 
 
-class J06_StaticInner
+class J06_StaticInner	// J06_StaticInnerClass.class
 {
 	public static void main(String[] args)
 	{
