@@ -31,11 +31,14 @@ public class J20_DefaultMethod_Interface
 	{
 		/*
 		 1. In newer version of Java, we can define a method 
-		    in IInterface as well. 
+		    in IInterface as well.
+		     
 		 2. That method should be "default" not "public".
+		 
 		 3. Even FunctionalInterface can have 
-		 a "undeclared public abstract" method and 
-		 more than one "declared default abstract" method. 
+		 	a "undeclared public abstract" method and 
+		 	more than one "declared default abstract" method.
+		 	 
 		 4. "default abstract" methods can also be overridden.
 		*/
 		

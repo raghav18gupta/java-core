@@ -17,10 +17,14 @@ public class J19_Lambda_Expr
 	{
 		/*
 		  Types of Interfaces:
+		  
 		  1. Normal Interface - More than one Abstract Methods
+		  
 		  2. Functional Interface - Single Abstract Method(SAM)
+		  
 		  3. Marker Interface - No Abstract Method
 		*/
+		
 		
 		/* Two ways of writing lambda expression: */
 		
